@@ -11,5 +11,5 @@ Output: [1,3,12,0,0]
 
 #### Note:
 
-You must do this in-place without making a copy of the array.
-Minimize the total number of operations.
+- You must do this in-place without making a copy of the array.
+- Minimize the total number of operations.
