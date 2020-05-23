@@ -35,3 +35,5 @@ Constraints:
 
 - The number of elements of the BST is between 1 to 10^4.
 - You may assume k is always valid, 1 ≤ k ≤ BST's total elements.
+
+#### Answer to follow-up question: We can maintain an additional parameter in each Node that gives the number of left children of the Node.This reduces the parsing to O(depth of tree).
